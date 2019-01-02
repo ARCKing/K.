@@ -1,6 +1,5 @@
 # K.
 
-![image](https://github.com/ARCKing/K./blob/master/icon-1024.png)
 
 # 1.【Technical Support】
 
@@ -17,3 +16,4 @@ A puzzle game for iOS based on Karnaugh's manual method of simplifying boolean e
 An implementation of the Quine-McCluskey simplification algorithm is provided.
 
 
+![image](https://github.com/ARCKing/K./blob/master/icon-1024.png)
