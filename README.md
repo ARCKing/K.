@@ -1,4 +1,7 @@
 # K.
+
+![image](https://github.com/ARCKing/K./blob/master/icon-1024.png)
+
 # 1.【Technical Support】
 
 The problems encountered in the game can be feedback to me in the following ways:
